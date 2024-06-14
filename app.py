@@ -16,8 +16,8 @@ from llama_index.core.prompts import PromptTemplate
 nest_asyncio.apply()
 
 # Set up environment variables for API keys
-os.environ["LLAMA_CLOUD_API_KEY"] = "llx-KQOXE4oJgLsAmpyzGOYA6wesSb22lns54LRvlAcgTyfteBqC"
-os.environ["ANTHROPIC_API_KEY"] = "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"
+os.environ["LLAMA_CLOUD_API_KEY"] = ""
+os.environ["ANTHROPIC_API_KEY"] = ""
 
 # Streamlit interface
 st.title("NY House Dataset Query Interface")
