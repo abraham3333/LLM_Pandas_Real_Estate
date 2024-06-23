@@ -75,6 +75,15 @@ The `app.py` file contains the main code for the Streamlit application:
 - **Query Pipeline Setup**: The query pipeline is set up using the Llama Index library to handle natural language queries and generate corresponding Python code.
 - **Query Execution**: The entered query is processed, and the result is displayed.
 
+## 🔍 Example Queries
+
+You can perform various operations on the dataset using natural language queries. Here are a few examples:
+
+- **Average Calculation**: "What is the average price of houses in Manhattan?"
+- **Filtering**: "Show me houses with more than 3 bedrooms."
+- **Correlation**: "What is the correlation between house price and number of bedrooms?"
+- **Summary Statistics**: "Give me the summary statistics for house prices."
+
 ## 🤝 Contributing
 
 Feel free to fork this repository and submit pull requests. For any issues or feature requests, please open an issue on the GitHub repository.
@@ -91,4 +100,4 @@ This project is licensed under the MIT License.
 
 ---
 
-This README provides an overview of the project, installation instructions, usage guidelines, and other relevant information. Let me know if there's anything else you would like to add!
+This README provides an overview of the project, installation instructions, usage guidelines, example queries, and other relevant information. Let me know if there's anything else you would like to add!
