@@ -1,6 +1,4 @@
-Sure! Here's the enhanced README file with headings and emojis:
 
----
 
 # 🏡 NY House Dataset Query Interface
 
